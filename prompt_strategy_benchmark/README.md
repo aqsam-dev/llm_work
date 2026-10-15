@@ -133,7 +133,3 @@ python scraper.py https://example.com
 
 The same code can point at hosted models (OpenAI, OpenRouter) by changing `--base-url`, `--api-key` and `--model`.
 
-## Next steps
-1. Add label definitions to the prompt and rerun (does `other` improve?).
-2. Run again to measure noise, and swap the few-shot examples.
-3. Compare a second model through the same code.
