@@ -1,0 +1,61 @@
+id,text,label,ambiguous,split
+1,I was charged twice for my subscription this month.,billing,0,pool
+2,Please send me an invoice for my last payment.,billing,0,pool
+3,Why did my plan price go up from $9 to $12?,billing,0,pool
+4,The app crashes every time I open the settings page.,bug,0,pool
+5,Search returns no results even though I know the item exists.,bug,0,pool
+6,Notifications arrive twice for every message.,bug,0,pool
+7,Please add a dark mode option.,feature_request,0,pool
+8,It would be great if I could export my data to CSV.,feature_request,0,pool
+9,What are your office opening hours?,other,0,pool
+10,Do you have a careers page?,other,0,pool
+11,My card was declined but the money still left my account.,billing,1,test
+12,I cancelled last week and you billed me again today.,billing,0,test
+13,Can I switch from monthly to yearly payment and get a discount?,billing,0,test
+14,"The invoice shows a company name that is wrong, please correct it.",billing,0,test
+15,refund me NOW. wrong amount taken!!,billing,0,test
+16,I never received a receipt for my payment on March 3rd.,billing,0,test
+17,Is VAT included in the price shown at checkout?,billing,0,test
+18,"Hello, I would like to update the credit card on my account because the old one expired, but I cannot find where to do that in the billing section.",billing,0,test
+19,Promo code SAVE20 did not apply at checkout and I paid full price.,billing,1,test
+20,I was charged twice after the app crashed during payment.,billing,1,test
+21,Payment page shows an error but my bank says the payment went through.,billing,1,test
+22,Why was I charged a late fee? I paid on time.,billing,0,test
+23,Please stop auto renewal on my account.,billing,0,test
+24,login button does nothing when i tap it,bug,0,test
+25,The app freezes for about ten seconds whenever I upload a photo larger than 5MB.,bug,0,test
+26,"Dark theme text is unreadable, white text on a white background in the profile screen.",bug,0,test
+27,"Password reset email never arrives, I checked spam too.",bug,1,test
+28,"Everything was fine until the latest update, now the app closes right after the splash screen.",bug,0,test
+29,The total in my cart shows 0 even after adding three items.,bug,1,test
+30,Export to PDF produces an empty file.,bug,0,test
+31,Sync between my phone and laptop stopped working two days ago.,bug,0,test
+32,The discount is applied twice in my cart so the price looks wrong.,bug,1,test
+33,Typo on the checkout page: 'Confrim order'.,bug,0,test
+34,Calendar invites show the wrong time zone.,bug,0,test
+35,"App is super slow lately, takes 30 sec to load the home page.",bug,0,test
+36,"I can't change my username, the save button stays greyed out.",bug,1,test
+37,Would love a widget for my home screen showing today's tasks.,feature_request,0,test
+38,Can you add support for two-factor authentication using an authenticator app?,feature_request,0,test
+39,Please allow multiple profiles under one account for my family.,feature_request,0,test
+40,An offline mode would make this app perfect for my commute.,feature_request,0,test
+41,it would be nice to have keyboard shortcuts,feature_request,0,test
+42,I wish I could schedule messages to send later.,feature_request,0,test
+43,"Add integration with Google Calendar please, I use it for everything.",feature_request,0,test
+44,Why can't I sort my list by date? Please make that possible.,feature_request,1,test
+45,Could you make the font size adjustable? My eyes are tired.,feature_request,0,test
+46,The app doesn't let me undo a delete. This really should exist.,feature_request,1,test
+47,Please support Urdu language in the interface.,feature_request,0,test
+48,A bulk-select option for archiving would save me so much time.,feature_request,0,test
+49,Do you ship to Pakistan?,other,0,test
+50,What is your privacy policy regarding my data?,other,0,test
+51,I'd like to talk to a manager about a partnership opportunity.,other,0,test
+52,"Thanks for the quick help yesterday, your team is great!",other,0,test
+53,How do I delete my account permanently?,other,1,test
+54,Are you hiring interns this summer?,other,0,test
+55,Your competitor offers a similar product. How are you different?,other,0,test
+56,Where can I find your terms of service?,other,0,test
+57,"I'm a journalist writing about your company, who should I contact?",other,0,test
+58,asdf test test,other,0,test
+59,Can someone explain how your referral program works?,other,0,test
+60,"My friend says your app is down in his city, is there an outage?",other,1,test
